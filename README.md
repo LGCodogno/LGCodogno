@@ -50,7 +50,12 @@ Atualmente busco oportunidades para atuar como analista de dados onde eu possa a
   
 </div>
 
-
+##
+        
+<h2><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/LGCodogno/count.svg"/>
+</p>
 
 <!--
 **LGCodogno/LGCodogno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
