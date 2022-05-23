@@ -21,8 +21,11 @@ Atualmente busco oportunidades para atuar como analista de dados onde eu possa a
       
 ##
 
-<h2 align="center"> Ferramentas: </h2>
-
+<h2 align="center"> Ferramentas 🛠️ </h2>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+</div>
 
 <!--
 **LGCodogno/LGCodogno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
