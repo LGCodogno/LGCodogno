@@ -8,15 +8,21 @@ Atualmente busco oportunidades para atuar como analista de dados onde eu possa a
        Cientista de Dados 🖥️📊
     </h2>
 <h3 align="center"> Como cientista de dados em desenvolvimento, hoje estou estudando e praticando: </h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="left"><br>
        
 **Linguagem**: <img align="center" alt="PYTHON" height="30" width="105" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 **Banco de Dados**: <img align="center" alt="MongoDB" height="30" width="105" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img align="center" alt="MySQL" height="30" width="105" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
        
-**Cloud**: <img align="center" alt="MAzure" height="30" width="150" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-       
-    </div>
+**Cloud**: <img align="center" alt="MAzure" height="30" width="150" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img align="center" alt="GoogleCloud" height="30" width="150" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> 
+
+**Inteligência Artificial**: <img align="center" alt="MachineLearning" height="30" src="https://img.shields.io/badge/machine_learning_models-0047b3?&style=for-the-badge&logo=marchine-learning&logoColor=white">
+      </div>
+      
+##
+
+<h2 align="center"> Ferramentas: </h2>
+
 
 <!--
 **LGCodogno/LGCodogno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
