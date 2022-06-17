@@ -9,7 +9,7 @@ Atualmente busco oportunidades para atuar como analista de dados onde eu possa a
         <a href = "mailto:lgustavocodogno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>            
         </a>
         <a href="mailto:gu_codogno@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a>
-        <a href="https://www.linkedin.com/in/luiz-gustavo-codogno-1715ab8b/" target="_blank">
+        <a href="https://www.linkedin.com/in/luiz-gustavo-codogno/" target="_blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
 </div>
