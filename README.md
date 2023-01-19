@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo. Sou o Luiz Gustavo! 😄</h1>
 <p> Formado em engenharia química, atuei por alguns anos em áreas como: vendas, qualidade, laboratório e indústria. Atraído pela tecnologia e inovações, optei por entrar nesse mundo através da área de Ciência de Dados onde, em 2021, cursei o Data Expert (DEx) realizado pela DNC Group. No curso, adquiri e desenvolvi conhecimentos nas áreas de: linguagem de programação Python, Banco de Dados, modelos de Machine Learning, Big Data, Estatística, Cloud, entre outras.
 
-Atualmente busco oportunidades para atuar como analista de dados onde eu possa aplicar os conhecimentos e experiências adquiridas e contribuir com os mesmos. 
+Atualmente atuo como Analista Jr. de Modelos na Boa Vista Serviços. 
 </p>
 
 <h3 align="center"> Contato 📲 </h3>
